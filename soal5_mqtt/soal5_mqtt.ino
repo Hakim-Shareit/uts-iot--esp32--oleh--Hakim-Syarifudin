@@ -12,8 +12,8 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 
-// ---------- Identitas (WAJIB DIISI) ----------
-const char* NIM = "ISI_NIM_DI_SINI";
+// ---------- Identitas ----------
+const char* NIM = "24063005";
 
 // ---------- Wi-Fi (Wokwi) ----------
 const char* WIFI_SSID     = "Wokwi-GUEST";
