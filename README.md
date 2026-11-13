@@ -11,13 +11,10 @@ UTS Ganjil TA 2026/2027, Program Studi Informatika UNISDA Lamongan.
 | `soal5_mqtt/` | Publish data cahaya dan subscribe kontrol relay via MQTT | LDR GPIO 34, relay GPIO 19 |
 
 Setiap soal dibuat sebagai project Wokwi terpisah. Salin isi file `.ino` ke `sketch.ino`.
-Soal 4 membutuhkan library `ESP32Servo` dan Soal 5 membutuhkan `PubSubClient` (lihat `libraries.txt`).
-
-Soal 5: ganti `NIM` pada kode dengan NIM Anda.
 
 ## Link project Wokwi
 
-- Soal 1: _isi link_
+- Soal 1: https://wokwi.com/projects/480561970994763777
 - Soal 2: _isi link_
 - Soal 3: _isi link_
 - Soal 4: _isi link_
@@ -25,4 +22,4 @@ Soal 5: ganti `NIM` pada kode dengan NIM Anda.
 
 ## Penulis
 
-_Nama / NIM_
+_Hakim Syarifudin_
