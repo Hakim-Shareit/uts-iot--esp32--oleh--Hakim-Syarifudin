@@ -18,7 +18,7 @@ Setiap soal dibuat sebagai project Wokwi terpisah. Salin isi file `.ino` ke `ske
 - Soal 2: _isi link_
 - Soal 3: _isi link_
 - Soal 4: _isi link_
-- Soal 5: _isi link_
+- Soal 5: https://wokwi.com/projects/480576164705525761
 
 ## Penulis
 
